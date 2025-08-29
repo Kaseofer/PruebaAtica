@@ -1,0 +1,15 @@
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\AdminUsuariosApp.DAL.dll
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\AdminUsuariosApp.DAL.pdb
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\AdminUsuariosApp.Entities.dll
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\AdminUsuariosApp.Entities.pdb
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\obj\Debug\AdminUsuariosApp.DAL.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\obj\Debug\AdminUsuariosApp.DAL.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\obj\Debug\AdminUsu.76F6F9CB.Up2Date
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\obj\Debug\AdminUsuariosApp.DAL.dll
+C:\Proyectos\PruebaAtica\AdminUsuariosApp.DAL\obj\Debug\AdminUsuariosApp.DAL.pdb

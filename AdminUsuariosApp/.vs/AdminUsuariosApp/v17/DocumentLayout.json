@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\nuevousuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:nuevousuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\listarusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:listarusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\nuevousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:nuevousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\scripts\\webforms\\webuivalidation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:scripts\\webforms\\webuivalidation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\listarusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:listarusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D539F1C-5645-41C3-8A08-43C26B35898E}|..\\AdminUsuariosApp.Entities\\AdminUsuariosApp.Entities.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp.entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B64F7D-A834-46DD-8E9D-D7DC6CC9AFE1}|..\\AdminUsuariosApp.DAL\\AdminUsuariosApp.DAL.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp.dal\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95BA35C-CDE0-49B7-8551-AA38A16D3DD7}|..\\AdminUsuarioApp.BLL\\AdminUsuarioApp.BLL.csproj|c:\\proyectos\\pruebaatica\\adminusuarioapp.bll\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95BA35C-CDE0-49B7-8551-AA38A16D3DD7}|..\\AdminUsuarioApp.BLL\\AdminUsuarioApp.BLL.csproj|c:\\proyectos\\pruebaatica\\adminusuarioapp.bll\\mapper\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95BA35C-CDE0-49B7-8551-AA38A16D3DD7}|..\\AdminUsuarioApp.BLL\\AdminUsuarioApp.BLL.csproj|c:\\proyectos\\pruebaatica\\adminusuarioapp.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95BA35C-CDE0-49B7-8551-AA38A16D3DD7}|..\\AdminUsuarioApp.BLL\\AdminUsuarioApp.BLL.csproj|c:\\proyectos\\pruebaatica\\adminusuarioapp.bll\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\listarusuarios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:listarusuarios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B64F7D-A834-46DD-8E9D-D7DC6CC9AFE1}|..\\AdminUsuariosApp.DAL\\AdminUsuariosApp.DAL.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp.dal\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|c:\\proyectos\\pruebaatica\\adminusuariosapp\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E498EEE6-87E5-4320-8F72-0891A4F72252}|AdminUsuariosApp.UI.csproj|solutionrelative:content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoUsuario.aspx",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\NuevoUsuario.aspx",
+              "RelativeDocumentMoniker": "NuevoUsuario.aspx",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\NuevoUsuario.aspx",
+              "RelativeToolTip": "NuevoUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-28T18:00:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebUIValidation.js",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Scripts\\WebForms\\WebUIValidation.js",
+              "RelativeDocumentMoniker": "Scripts\\WebForms\\WebUIValidation.js",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Scripts\\WebForms\\WebUIValidation.js",
+              "RelativeToolTip": "Scripts\\WebForms\\WebUIValidation.js",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-28T21:24:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarUsuarios.aspx",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ListarUsuarios.aspx",
+              "RelativeDocumentMoniker": "ListarUsuarios.aspx",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ListarUsuarios.aspx",
+              "RelativeToolTip": "ListarUsuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-28T17:51:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-28T17:54:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Site.Mobile.Master",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Site.Mobile.Master",
+              "RelativeToolTip": "Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-28T19:31:32.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuevoUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\NuevoUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "NuevoUsuario.aspx.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\NuevoUsuario.aspx.cs",
+              "RelativeToolTip": "NuevoUsuario.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:46:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarUsuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ListarUsuarios.aspx.cs",
+              "RelativeDocumentMoniker": "ListarUsuarios.aspx.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ListarUsuarios.aspx.cs",
+              "RelativeToolTip": "ListarUsuarios.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIA8wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:56:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "ViewSwitcher.ascx",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ViewSwitcher.ascx",
+              "RelativeToolTip": "ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-08-28T21:25:42.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Bundle.config",
+              "RelativeDocumentMoniker": "Bundle.config",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Bundle.config",
+              "RelativeToolTip": "Bundle.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-28T21:29:06.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-28T16:34:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:32:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp.Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuariosApp.Entities\\Usuario.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp.Entities\\Usuario.cs",
+              "RelativeToolTip": "..\\AdminUsuariosApp.Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:27:37.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp.DAL\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuariosApp.DAL\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp.DAL\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\AdminUsuariosApp.DAL\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:26:37.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap.css",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\Content\\bootstrap.css",
+              "RelativeToolTip": "Content\\bootstrap.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-28T21:04:53.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuarioApp.BLL\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "..\\AdminUsuarioApp.BLL\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:24:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListarUsuarios.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ListarUsuarios.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ListarUsuarios.aspx.designer.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp\\ListarUsuarios.aspx.designer.cs",
+              "RelativeToolTip": "ListarUsuarios.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:59:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioMapper.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\Mapper\\UsuarioMapper.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuarioApp.BLL\\Mapper\\UsuarioMapper.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\Mapper\\UsuarioMapper.cs",
+              "RelativeToolTip": "..\\AdminUsuarioApp.BLL\\Mapper\\UsuarioMapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:32:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuarioApp.BLL\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "..\\AdminUsuarioApp.BLL\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:23:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\DTOS\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuarioApp.BLL\\DTOS\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuarioApp.BLL\\DTOS\\UsuarioDTO.cs",
+              "RelativeToolTip": "..\\AdminUsuarioApp.BLL\\DTOS\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:14:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp.DAL\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\AdminUsuariosApp.DAL\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaAtica\\AdminUsuariosApp.DAL\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\AdminUsuariosApp.DAL\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:26:15.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
