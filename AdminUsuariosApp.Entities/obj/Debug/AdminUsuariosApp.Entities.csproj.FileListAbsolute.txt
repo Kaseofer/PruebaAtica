@@ -4,3 +4,9 @@ C:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.En
 C:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.csproj.CoreCompileInputs.cache
 C:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.dll
 C:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.pdb
+D:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\bin\Debug\AdminUsuariosApp.Entities.dll
+D:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\bin\Debug\AdminUsuariosApp.Entities.pdb
+D:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.csproj.AssemblyReference.cache
+D:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.csproj.CoreCompileInputs.cache
+D:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.dll
+D:\Proyectos\PruebaAtica\AdminUsuariosApp.Entities\obj\Debug\AdminUsuariosApp.Entities.pdb

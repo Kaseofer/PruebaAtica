@@ -1,27 +1,34 @@
--- StoredProcedures.sql
-
-/* LISTADO DE USARIOS */
-CREATE PROCEDURE sp_ObtenerUsuarios AS
-BEGIN
-SELECT * FROM Usuario;
-END;
-
-/* INSERCION DEL USUARIO
- Nombre: nombre del usuario
- Email: direccionn de correo
- */
-CREATE PROCEDURE sp_InsertarUsuario
-    @Nombre NVARCHAR(100),
-    @Email NVARCHAR(100)
+-- LISTADO DE USUARIOS
+CREATE PROCEDURE sp_ObtenerUsuarios
 AS
 BEGIN
-    INSERT INTO Usuario (Nombre, Email)
-    VALUES (@Nombre, @Email);
+    SELECT * FROM Usuario;
+END;
+GO
+-- INSERCIÓN DE USUARIO COMPLETO
+CREATE PROCEDURE sp_InsertarUsuario
+    @NickName NVARCHAR(100),
+    @TipoUsuario NVARCHAR(50),
+    @NombreCompleto NVARCHAR(150),
+    @Email NVARCHAR(150),
+    @FechaNacimiento DATE,
+    @TipoDocumento NVARCHAR(50),
+    @NumeroDocumento NVARCHAR(50),
+    @FechaAlta DATETIME
+AS
+BEGIN
+    INSERT INTO Usuario (
+        NickName, TipoUsuario, NombreCompleto, Email,
+        FechaNacimiento, TipoDocumento, NumeroDocumento, FechaAlta
+    )
+    VALUES (
+        @NickName, @TipoUsuario, @NombreCompleto, @Email,
+        @FechaNacimiento, @TipoDocumento, @NumeroDocumento, @FechaAlta
+    );
 END;
 
-
-/*ELIMINACION DEL USUARIO
-   ID : IDENTIFICADOR DEL USUARIO A ELIMINAR*/
+GO
+-- ELIMINACIÓN DE USUARIO POR ID
 CREATE PROCEDURE sp_EliminarUsuario
     @Id INT
 AS

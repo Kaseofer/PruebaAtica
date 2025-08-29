@@ -1,0 +1,60 @@
+# ⚙️ Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.dbmdl
+*.pdb
+
+# 🧱 Build folders
+bin/
+obj/
+TestResults/
+*.log
+
+# 📦 NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# 🧪 Configuración local
+*.env
+*.local.json
+*.sqlite
+*.db
+
+# 🧠 IDE y editor
+.idea/
+.vscode/
+*.code-workspace
+
+# 📄 Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# 🔍 Archivos bloqueados por Visual Studio
+AdminUsuariosApp.UI/.vs/AdminUsuariosApp/FileContentIndex/
+
+# 📜 Logs
+*.log
+*.tlog
+*.vlog
+*.wrn
+*.err
+
+# 🧪 Test y cobertura
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+
+# 🧹 Otros
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.DotSettings

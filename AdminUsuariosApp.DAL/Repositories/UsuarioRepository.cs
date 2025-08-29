@@ -29,13 +29,14 @@ namespace AdminUsuariosApp.DAL.Repositories
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
 
-                        cmd.Parameters.Add(new SqlParameter("@Nombre", SqlDbType.NVarChar, 100) { Value = usuario.Nombre });
-                        cmd.Parameters.Add(new SqlParameter("@Email", SqlDbType.NVarChar, 100) { Value = usuario.Email });
+                        cmd.Parameters.Add(new SqlParameter("@NickName", SqlDbType.NVarChar, 100) { Value = usuario.NickName });
+                        cmd.Parameters.Add(new SqlParameter("@TipoUsuario", SqlDbType.NVarChar, 50) { Value = usuario.TipoUsuario });
+                        cmd.Parameters.Add(new SqlParameter("@NombreCompleto", SqlDbType.NVarChar, 150) { Value = usuario.NombreCompleto });
+                        cmd.Parameters.Add(new SqlParameter("@Email", SqlDbType.NVarChar, 150) { Value = usuario.Email });
                         cmd.Parameters.Add(new SqlParameter("@FechaNacimiento", SqlDbType.Date) { Value = usuario.FechaNacimiento });
-                        cmd.Parameters.Add(new SqlParameter("@TipoDocumento", SqlDbType.NVarChar, 20) { Value = usuario.TipoDocumento });
-                        cmd.Parameters.Add(new SqlParameter("@NumeroDocumento", SqlDbType.NVarChar, 20) { Value = usuario.NumeroDocumento });
-                        cmd.Parameters.Add(new SqlParameter("@TipoUsuario", SqlDbType.NVarChar, 20) { Value = usuario.TipoUsuario });
-
+                        cmd.Parameters.Add(new SqlParameter("@TipoDocumento", SqlDbType.NVarChar, 50) { Value = usuario.TipoDocumento });
+                        cmd.Parameters.Add(new SqlParameter("@NumeroDocumento", SqlDbType.NVarChar, 50) { Value = usuario.NumeroDocumento });
+                        cmd.Parameters.Add(new SqlParameter("@FechaAlta", SqlDbType.DateTime) { Value = usuario.FechaAlta });
                         conn.Open();
                         cmd.ExecuteNonQuery();
                     }
@@ -43,11 +44,7 @@ namespace AdminUsuariosApp.DAL.Repositories
 
                 return true;
             }
-            catch
-            {
-                // Podés loguear el error con Serilog, NLog o simplemente guardar en tabla de auditoría
-                return false;
-            }
+            catch {return false;}
         }
 
 
@@ -70,10 +67,7 @@ namespace AdminUsuariosApp.DAL.Repositories
 
                 return true;
             }
-            catch
-            {
-                return false;
-            }
+            catch { return false; }
         }
 
 
@@ -96,7 +90,8 @@ namespace AdminUsuariosApp.DAL.Repositories
                             usuarios.Add(new Usuario
                             {
                                 Id = reader.GetInt32(reader.GetOrdinal("Id")),
-                                Nombre = reader.GetString(reader.GetOrdinal("Nombre")),
+                                NickName = reader.GetString(reader.GetOrdinal("NickName")),
+                                NombreCompleto = reader.GetString(reader.GetOrdinal("NombreCompleto")),
                                 Email = reader.GetString(reader.GetOrdinal("Email")),
                                 FechaNacimiento = reader.GetDateTime(reader.GetOrdinal("FechaNacimiento")),
                                 TipoDocumento = reader.GetString(reader.GetOrdinal("TipoDocumento")),

@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace AdminUsuariosApp.Entities
+namespace AdminUsuarioApp.BLL.Dtos
 {
-    public class Usuario
+    public class UsuarioDto
     {
         public int Id { get; set; }
         public string NickName { get; set; }
@@ -14,8 +10,8 @@ namespace AdminUsuariosApp.Entities
         public string NombreCompleto { get; set; }
         public string Email { get; set; }
         public DateTime FechaNacimiento { get; set; }
-        public string TipoDocumento { get; set; }       
-        public string NumeroDocumento { get; set; }               
+        public string TipoDocumento { get; set; }
+        public string NumeroDocumento { get; set; }
         public DateTime FechaAlta { get; set; }
     }
 }
